@@ -1,16 +1,23 @@
 ## Hi there 👋
+<br>
+Eu sou Robson Machado, sou um programador Front End, estou aprendendo e criando projetos com:
+<br>
+<br>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=" HTML-LOGO"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-LOGO"/>
+<br>
+<br>
 
-<!--
-**RobsonMachadoM12/robsonmachadom12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Entre em contato:
+<a href="https://www.instagram.com/robsonmachadom12/">
+  <img src="https://img.freepik.com/vetores-gratis/instagram-icone-novo_1057-2227.jpg?t=st=1731878858~exp=1731882458~hmac=4157d65effc07e7f72682ec552e6742da322b185199516cdb57ea4041c29b2f6&w=740"
+    width="28px" alt="logo-instagram"
+</a>
+  <br>
+    <br>
+    <br>
+[![robsonmachadom12 stats](https://github-readme-stats.vercel.app/api?username=RobsonMachadoM12)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![robsonmachadom12](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonmachadom12)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
